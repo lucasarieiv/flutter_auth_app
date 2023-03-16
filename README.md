@@ -1,16 +1,11 @@
-# my_app
+# Aplicativo de autenticação
 
-A new Flutter project.
 
-## Getting Started
+Atividade Desenvolvimento Mobile. Tela já implementada no Flutter.
 
-This project is a starting point for a Flutter application.
+<p align="center">
+    <img src="lib/images/screen.png" width="320px">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Link do projeto no figma. [Acesse aqui](https://www.figma.com/file/AQEQ33wK77UaplZ2QWleiH/Aula-Mobile?node-id=0%3A1&t=fYf7qAsEkpcFyKkJ-1)
