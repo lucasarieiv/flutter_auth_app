@@ -34,6 +34,9 @@ class TextFieldComponent extends StatelessWidget {
           child: TextField(
             controller: controller,
             obscureText: obscureText,
+            keyboardType: (label == 'E-mail'
+                ? TextInputType.emailAddress
+                : TextInputType.text),
             decoration: InputDecoration(
                 suffixIcon: Icon(obscureText ? Icons.visibility_off : null),
                 enabledBorder: OutlineInputBorder(
